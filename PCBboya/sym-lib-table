@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "devkit-esp32")(type "KiCad")(uri "D:/Kicad/libs/DEVKIT_V1_ESP32-WROOM-32/DEVKIT_V1_ESP32-WROOM-32.kicad_sym")(options "")(descr ""))
+  (lib (name "cargador")(type "KiCad")(uri "D:/Kicad/libs/mh-cd42/mh-cd42/cd42.kicad_sym")(options "")(descr "")(disabled)(hidden))
+  (lib (name "jack dc")(type "KiCad")(uri "D:/Kicad/libs/PJ-044B/PJ-044B.kicad_sym")(options "")(descr ""))
+  (lib (name "bateria")(type "KiCad")(uri "D:/Kicad/libs/1043/1043.kicad_sym")(options "")(descr ""))
+  (lib (name "screw-terminal")(type "KiCad")(uri "D:/Kicad/libs/TB006-508-02BE/TB006-508-02BE.kicad_sym")(options "")(descr ""))
+  (lib (name "resistance")(type "KiCad")(uri "D:/Kicad/libs/resistance/MFR-25FBF52-196K.kicad_sym")(options "")(descr ""))
+  (lib (name "cd42")(type "KiCad")(uri "C:/Users/sebas/OneDrive/Documentos/cd42/cd42.kicad_sym")(options "")(descr ""))
+  (lib (name "dht22")(type "KiCad")(uri "D:/Kicad/libs/DHT22/DHT22.kicad_sym")(options "")(descr ""))
+  (lib (name "jack-dcdefinitivo")(type "KiCad")(uri "D:/Kicad/libs/jack-dc/PJ-018.kicad_sym")(options "")(descr ""))
+  (lib (name "socket")(type "KiCad")(uri "D:/Kicad/libs/ESW-101-44-L-S/ESW-101-44-L-S.kicad_sym")(options "")(descr ""))
+)
